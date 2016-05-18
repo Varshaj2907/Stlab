@@ -93,7 +93,8 @@ int main(int argc,char *argv[])
 				else
 					{	
 					tday=1;
-					tmonth=month+1;
+					tmonth=1;
+					tyear=year+1;
 					}
 				break;
 			case 4: if(day<28)
